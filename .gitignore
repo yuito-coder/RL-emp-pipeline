@@ -1,0 +1,7 @@
+# secrets・状態ファイルはリポジトリに含めない
+gas_run/
+*.log
+emp_cache_local.json
+emp_fetch_state.json
+node_modules/
+.env
